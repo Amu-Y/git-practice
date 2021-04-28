@@ -6,7 +6,7 @@
 
 header {
   width: 100%;
-  height: 70px;
+  height: 80px;
  display: flex;
  justify-content: center;
  /* background-color: red; */
@@ -14,7 +14,7 @@ header {
 
 .heading {
 text-align: center;
-line-height: 70px;
+line-height: 80px;
 }
 
 .nav-list {
@@ -37,11 +37,74 @@ line-height: 60px;
 white-space: nowrap;
 }
 
-main {
-  width: 100%;
-  height: 700px;
-  background-color: wheat;
+.main {
+  width: 800px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
 }
+
+.main-item {
+  width: 200px;
+  height: 200px;
+  background-color: #e6ffe9;
+}
+.main-item2 {
+  width: 200px;
+  height: 200px;
+  background-color: #cbffd3;
+}
+.main-item3 {
+  width: 200px;
+  height: 200px;
+  background-color: #aeffbd;
+}
+.main-item4 {
+  width: 200px;
+  height: 200px;
+  background-color: #93ffab;
+}
+.main-item5 {
+  width: 200px;
+  height: 200px;
+  background-color: #f3ffd8;
+}
+.main-item6 {
+  width: 200px;
+  height: 200px;
+  background-color: #edffbe;
+}
+.main-item7 {
+  width: 200px;
+  height: 200px;
+  background-color: #e9ffa5;
+}
+.main-item8 {
+  width: 200px;
+  height: 200px;
+  background-color: #e4ff8d;
+}
+.main-item9 {
+  width: 200px;
+  height: 200px;
+  background-color: #d9e5ff;
+}
+.main-item10 {
+  width: 200px;
+  height: 200px;
+  background-color: #bad3ff;
+}
+.main-item11 {
+  width: 200px;
+  height: 200px;
+  background-color: #a4c6ff;
+}
+.main-item12 {
+  width: 200px;
+  height: 200px;
+  background-color: #8eb8ff;
+}
+
 
 footer {
   width: 100%;

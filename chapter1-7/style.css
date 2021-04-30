@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+.header-text {
+  color: grey;
+  padding: 20px;
+}
+
+main{
+  width: 840px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.blog {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #C0C0C0;
+}
+
+a {
+  color: black;
+}
+
+.blog-title {
+  /* text-align: left; */
+}
+
+.blog-item {
+  /* text-align: left; */
+}
